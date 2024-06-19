@@ -4,6 +4,10 @@
 
 API's for ecommerce platform admin to manage product inventory
 
+## Technologies used
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postman)](https://skillicons.dev)
+
 ## API Endpoints
 
 ### Products
